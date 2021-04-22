@@ -6,6 +6,7 @@
         "bignumber.js": "^9.0.1",
         "chia-api": "git+https://github.com/felixbrucker/chia-api.git",
         "js-yaml": "^4.1.0",
+        "lodash": "^4.17.21",
         "mkdirp": "^1.0.4",
         "moment": "^2.29.1",
         "prompts": "^2.4.1",
