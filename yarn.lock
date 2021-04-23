@@ -21,7 +21,7 @@ bignumber.js@^9.0.0, bignumber.js@^9.0.1:
 
 "chia-api@git+https://github.com/felixbrucker/chia-api.git":
   version "1.0.0"
-  resolved "git+https://github.com/felixbrucker/chia-api.git#8ef50f6389fa07b6951acea22bb37443902c756b"
+  resolved "git+https://github.com/felixbrucker/chia-api.git#2cc5931d897052afed1e7cf4afbf6a98387abbb2"
   dependencies:
     json-bigint "^1.0.0"
     ws "^7.4.4"
