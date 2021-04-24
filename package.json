@@ -12,8 +12,16 @@
         "prompts": "^2.4.1",
         "uuid": "^8.3.2"
     },
+    "devDependencies": {
+        "pkg": "^4.5.1",
+        "archiver": "^5.3.0"
+    },
+    "bin": {
+        "chia-dashboard-satellite": "./main.js"
+    },
     "scripts": {
-        "start": "node main.js"
+        "start": "node main.js",
+        "package": "node bin/build-package.js"
     },
     "main": "main.js",
     "engines": {
