@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const config = require('./lib/service/config');
 const firstRunWizard = require('./lib/service/first-run-wizard');
 const statsCollection = require('./lib/service/stats-collection');
