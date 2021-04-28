@@ -7,7 +7,7 @@
     "dependencies": {
         "axios": "^0.21.1",
         "bignumber.js": "^9.0.1",
-        "chia-api": "git+https://github.com/felixbrucker/chia-api.git",
+        "chia-api": "^1.0.0",
         "js-yaml": "^4.1.0",
         "lodash": "^4.17.21",
         "mkdirp": "^1.0.4",
@@ -16,8 +16,8 @@
         "uuid": "^8.3.2"
     },
     "devDependencies": {
-        "pkg": "^4.5.1",
-        "archiver": "^5.3.0"
+        "archiver": "^5.3.0",
+        "pkg": "^4.5.1"
     },
     "bin": {
         "chia-dashboard-satellite": "./main.js"
