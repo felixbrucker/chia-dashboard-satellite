@@ -1,3 +1,9 @@
+1.2.0 / 2021-04-28
+==================
+
+* Do not require git anymore.
+* Fix a bug where throwing an error failed.
+
 1.1.1 / 2021-04-27
 ==================
 
