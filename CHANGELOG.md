@@ -1,3 +1,9 @@
+1.3.0 / 2021-05-06
+==================
+
+* Add support for basic gui plotter stats.
+* Add support for excluding services via `excludedServices` config option.
+
 1.2.0 / 2021-04-28
 ==================
 
