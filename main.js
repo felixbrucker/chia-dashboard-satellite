@@ -12,6 +12,7 @@ const version = require('./lib/version');
   if (!config.configExists) {
     await firstRunWizard.run();
   }
+  logger.log({ level: 'info', msg: `Config loaded from ${config.configFilePath} successfully` });
   chiaDashboardUpdater.init();
   await statsCollection.init();
   logger.log({ level: 'info', msg: `Chia-Dashboard-Satellite ${version} initialized` });
