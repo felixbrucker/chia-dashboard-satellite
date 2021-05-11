@@ -1,3 +1,11 @@
+1.4.0 / 2021-05-11
+==================
+
+* Add the satellite version to dashboard api requests.
+* Add an info log on startup showing the loaded config location.
+* Show a better error message when the api key is invalid.
+* Reset the plotter stats on startup as well.
+
 1.3.0 / 2021-05-06
 ==================
 
