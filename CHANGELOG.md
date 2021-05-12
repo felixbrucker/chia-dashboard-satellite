@@ -1,3 +1,10 @@
+1.5.0 / 2021-05-12
+==================
+
+* Add support for reporting harvester response times for the farmer stats.
+* Fix satellite initialization throwing unhandled errors when the chia node is slow to respond.
+* Fix errors being thrown with full stack traces for some failed http requests.
+
 1.4.0 / 2021-05-11
 ==================
 
