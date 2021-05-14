@@ -1,3 +1,9 @@
+1.6.0 / 2021-05-14
+==================
+
+* Use unified service names for stats reporting.
+* Increase stats updating interval.
+
 1.5.0 / 2021-05-12
 ==================
 
