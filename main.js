@@ -16,4 +16,9 @@ const version = require('./lib/version');
   chiaDashboardUpdater.init();
   await statsCollection.init();
   logger.log({ level: 'info', msg: `Chia-Dashboard-Satellite ${version} initialized` });
+
+  process.on('SIGINT', async () => {
+    await statsCollection.closeDaemonConnection();
+    process.exit();
+  });
 })();
