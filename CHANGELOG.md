@@ -1,3 +1,8 @@
+1.6.2 / 2021-05-14
+==================
+
+* Fix the daemon api connection not getting properly closed on exit.
+
 1.6.1 / 2021-05-14
 ==================
 
