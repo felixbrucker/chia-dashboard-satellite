@@ -1,3 +1,8 @@
+1.6.1 / 2021-05-14
+==================
+
+* Fix custom config location validation in first run wizard.
+
 1.6.0 / 2021-05-14
 ==================
 
