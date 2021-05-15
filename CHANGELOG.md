@@ -1,3 +1,9 @@
+1.7.0 / 2021-05-15
+==================
+
+* Add support for only counting unique balances in the wallet summary.
+* Fix a problem that could result in increased RTs when a chain re-org happens within the last 20 SPs.
+
 1.6.2 / 2021-05-14
 ==================
 
