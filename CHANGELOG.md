@@ -1,3 +1,9 @@
+1.9.0 / 2021-05-19
+==================
+
+* Add support for selecting the `chiaDashboardCoreUrl` config option in the first run wizard.
+* Show the used `chiaDashboardCoreUrl` on startup.
+
 1.8.0 / 2021-05-19
 ==================
 
