@@ -1,3 +1,8 @@
+1.8.0 / 2021-05-19
+==================
+
+* Add support for using any chia-dashboard-core via `chiaDashboardCoreUrl` config option.
+
 1.7.0 / 2021-05-15
 ==================
 
