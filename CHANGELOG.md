@@ -1,3 +1,8 @@
+1.9.1 / 2021-05-23
+==================
+
+* Fix wallet stats unavailable when the wallet was never logged into before.
+
 1.9.0 / 2021-05-19
 ==================
 
