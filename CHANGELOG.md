@@ -1,3 +1,8 @@
+1.9.2 / 2021-05-23
+==================
+
+* Fix wallets without any keys present preventing satellite initialization.
+
 1.9.1 / 2021-05-23
 ==================
 
