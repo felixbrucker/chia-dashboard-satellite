@@ -1,3 +1,9 @@
+1.10.0 / 2021-06-03
+==================
+
+* Add `https://us.chiadashboard.com` dashboard core url to first run wizard.
+* Decrease stats update payload size for farmer, harvester and full nodes.
+
 1.9.2 / 2021-05-23
 ==================
 
