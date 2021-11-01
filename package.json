@@ -7,7 +7,7 @@
     "dependencies": {
         "axios": "^0.21.1",
         "bignumber.js": "^9.0.1",
-        "chia-api": "^2.1.0",
+        "chia-api": "^2.3.0",
         "js-yaml": "^4.1.0",
         "lodash": "^4.17.21",
         "mkdirp": "^1.0.4",

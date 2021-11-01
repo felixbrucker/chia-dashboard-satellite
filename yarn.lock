@@ -200,10 +200,10 @@ chalk@^4.1.0:
     ansi-styles "^4.1.0"
     supports-color "^7.1.0"
 
-chia-api@^2.1.0:
-  version "2.1.0"
-  resolved "https://registry.yarnpkg.com/chia-api/-/chia-api-2.1.0.tgz#6a683b46adb9a1b1c934c90890384067911a7123"
-  integrity sha512-yfYlWEVcW+JiKjbJWVaNTh1LjTWPZwH9i2bxQI6ajAJy0ZV0ZBewFDtTHhkJNOt0MADTvNY559z/SGjcUFcsWw==
+chia-api@^2.3.0:
+  version "2.3.0"
+  resolved "https://registry.yarnpkg.com/chia-api/-/chia-api-2.3.0.tgz#cfe3a6d3077837ca09699c5b976cf02332721da9"
+  integrity sha512-L9MpZWjwjnKIULTt7dfxRotQmXhNjMtKGZZ2zutEJmIDx4HWvaUlohbY4AQ/aJnnMOjFmlcBgmqXREh/8vzFWw==
   dependencies:
     json-bigint "^1.0.0"
     ws "^7.5.0"
