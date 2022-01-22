@@ -5,19 +5,19 @@
     "bugs": "https://github.com/felixbrucker/chia-dashboard-satellite/issues",
     "license": "GPL-3.0",
     "dependencies": {
-        "axios": "^0.21.1",
-        "bignumber.js": "^9.0.1",
-        "chia-api": "^3.0.0",
+        "axios": "^0.25.0",
+        "bignumber.js": "^9.0.2",
+        "chia-api": "^3.1.2",
         "js-yaml": "^4.1.0",
         "lodash": "^4.17.21",
         "mkdirp": "^1.0.4",
         "moment": "^2.29.1",
-        "prompts": "^2.4.1",
+        "prompts": "^2.4.2",
         "uuid": "^8.3.2"
     },
     "devDependencies": {
         "archiver": "^5.3.0",
-        "pkg": "^5.3.0"
+        "pkg": "^5.5.2"
     },
     "bin": {
         "chia-dashboard-satellite": "./main.js"
