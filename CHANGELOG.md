@@ -1,3 +1,11 @@
+1.13.0 / 2022-01-22
+==================
+
+* Update dependencies.
+* Increase sync interval.
+* Remove unused fields from request bodies.
+* Move docker image to github.
+
 1.12.0 / 2021-11-06
 ==================
 
