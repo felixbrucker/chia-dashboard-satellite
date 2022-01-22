@@ -29,10 +29,7 @@ npm update -g chia-dashboard-satellite
 
 ## Donate
 
-- BHD: 33fKEwAHxVwnrhisREFdSNmZkguo76a2ML
-- BURST: BURST-BVUD-7VWE-HD7F-6RX4P
-- ETH: 0xfEc6F48633A7c557b4ac5c37B4519C55CD701BEF
-- BTC: 14rbdLr2YXDkguVaqRKnPftTPX52tnv2x2
+- CHIA: xch1063ymlv3saaxkh87h287nc3laelnxss0897xdw6g8zj6yvaa4elslg0xfa
 - PP: https://www.paypal.me/felixbrucker
 
 ## Changelog
