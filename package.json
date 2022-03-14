@@ -5,7 +5,7 @@
     "bugs": "https://github.com/felixbrucker/chia-dashboard-satellite/issues",
     "license": "GPL-3.0",
     "dependencies": {
-        "axios": "^0.26.0",
+        "axios": "^0.26.1",
         "bignumber.js": "^9.0.2",
         "chia-api": "^3.1.2",
         "js-yaml": "^4.1.0",
