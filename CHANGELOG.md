@@ -1,3 +1,8 @@
+1.13.1 / 2023-02-16
+==================
+
+* Fix a crash when checking for running services and timeouts happened.
+
 1.13.0 / 2022-01-22
 ==================
 
