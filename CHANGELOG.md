@@ -1,3 +1,10 @@
+1.14.0 / 2023-02-24
+==================
+
+* Add support for fallback dashboard core urls through `chiaDashboardCoreUrlKeyPairs` config field. Users of the foxy dashboard have this auto enabled without needing to change anything.
+* Bump the docker image and binaries to use node v18.
+* Update dependencies.
+
 1.13.2 / 2023-02-16
 ==================
 
