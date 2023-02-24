@@ -13,8 +13,7 @@ const version = require('./lib/version');
     await firstRunWizard.run();
   }
   logger.log({ level: 'info', msg: `Config loaded from ${config.configFilePath} successfully` });
-  logger.log({ level: 'info', msg: `Using ${config.chiaDashboardCoreUrl} for stats submissions` });
-  chiaDashboardUpdater.init();
+  await chiaDashboardUpdater.init();
   await statsCollection.init();
   logger.log({ level: 'info', msg: `Chia-Dashboard-Satellite ${version} initialized` });
 
