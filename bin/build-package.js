@@ -1,7 +1,6 @@
 const { basename, join } = require('path');
-const { createWriteStream, createReadStream, unlinkSync } = require('fs');
+const { createWriteStream, createReadStream, unlinkSync, mkdirSync } = require('fs');
 const { exec } = require('pkg');
-const mkdirp = require('mkdirp');
 const archiver = require('archiver');
 
 const version = require('../lib/version');
@@ -10,7 +9,7 @@ const name = 'chia-dashboard-satellite';
 
 (async () => {
   const buildPath = join(__dirname, '..', 'build');
-  mkdirp.sync(buildPath);
+  mkdirSync(buildPath, { recursive: true });
   const binaryFileName = `${name}${process.platform === 'win32' ? '.exe' : ''}`;
   const binaryPath = join(buildPath, binaryFileName);
   await exec([ '--output', binaryPath, '.' ]);
