@@ -1,3 +1,8 @@
+1.15.0 / 2023-04-24
+==================
+
+* Allow changing the response time sample size (default is 100) as well as the maximum number of farming infos (default is 20, maximum is 100).
+
 1.14.0 / 2023-02-24
 ==================
 
