@@ -1,3 +1,8 @@
+1.16.0 / 2023-04-25
+==================
+
+* Add `updateMode` config option to change how often the satellite updates the dashboard. Possible values: `slow`, `regular`, `fast`. Default value: `regular`.
+
 1.15.0 / 2023-04-24
 ==================
 
