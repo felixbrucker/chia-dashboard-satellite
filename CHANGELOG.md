@@ -2,6 +2,7 @@
 ==================
 
 * Add config option `enableCompatibilityMode` to enable/disable compatibility with older dashboards. Is automatically enabled if not set when using a different dashboard core url from foxy.
+* Reduce traffic by only updating changed values.
 
 1.16.0 / 2023-04-25
 ==================
