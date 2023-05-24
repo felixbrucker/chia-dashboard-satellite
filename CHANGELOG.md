@@ -1,3 +1,9 @@
+1.17.2 / 2023-05-24
+==================
+
+* Correctly parse CAT balances.
+* Skip logging in with the first fingerprint if already logged in to a wallet.
+
 1.17.1 / 2023-04-26
 ==================
 
