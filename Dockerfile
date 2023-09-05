@@ -1,9 +1,9 @@
 FROM node:18-alpine
+RUN yarn set version stable
 
 RUN apk update && apk add --no-cache bash
-RUN yarn set version stable
 WORKDIR /app
-COPY package.json yarn.lock ./
+COPY package.json yarn.lock .yarnrc.yml ./
 RUN yarn install
 COPY . .
 
