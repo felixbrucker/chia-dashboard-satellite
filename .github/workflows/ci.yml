@@ -18,6 +18,8 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: ${{ matrix.node-version }}
+      - name: Use current yarn
+        run: yarn set version stable
       - name: yarn install
         run: yarn install
       - name: Package release archive
