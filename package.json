@@ -1,6 +1,6 @@
 {
     "name": "chia-dashboard-satellite",
-    "version": "1.18.0",
+    "version": "1.18.1",
     "repository": "https://github.com/felixbrucker/chia-dashboard-satellite.git",
     "bugs": "https://github.com/felixbrucker/chia-dashboard-satellite/issues",
     "license": "GPL-3.0",

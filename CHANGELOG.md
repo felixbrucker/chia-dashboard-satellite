@@ -1,3 +1,8 @@
+1.18.1 / 2023-09-05
+==================
+
+* Fixes a bug which caused the chia version to be removed periodically.
+
 1.18.0 / 2023-09-05
 ==================
 
