@@ -1,3 +1,8 @@
+1.19.0 / 2023-09-23
+==================
+
+* Adds support for retrieving the harvester and farmer node id.
+
 1.18.1 / 2023-09-05
 ==================
 
