@@ -1,3 +1,10 @@
+1.19.1 / 2024-02-22
+==================
+
+* Use highly available api endpoint.
+* Update dependencies.
+* Switch to using pnpm instead of yarn.
+
 1.19.0 / 2023-09-23
 ==================
 
