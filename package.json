@@ -16,12 +16,14 @@
     },
     "devDependencies": {
         "archiver": "^5.3.1",
-        "pkg": "^5.8.0"
+        "pkg": "^5.8.0",
+        "npm-check-updates": "^16.14.12"
     },
     "bin": "./main.js",
     "scripts": {
         "start": "node main.js",
-        "package": "node bin/build-package.js"
+        "package": "node bin/build-package.js",
+        "update": "ncu -u"
     },
     "main": "main.js",
     "engines": {
