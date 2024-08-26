@@ -7,7 +7,7 @@ Chia-Dashboard-Satellite
 
 ## Prerequisites
 
-- nodejs >= 16, see [here](https://docs.foxypool.io/general/installing-nodejs/) how to install it
+- nodejs >= 16, see [here](https://docs.foxypool.io/general/guides/installing-nodejs/) how to install it
 
 ## Getting started
 
